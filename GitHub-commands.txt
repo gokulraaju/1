@@ -1,10 +1,10 @@
 git push -> local repository to github repository
-git pull 
-git clone
-git status
-git init 
-git add 
-git commit -m "msg"
-git reset --hard <commit hash>
-git reset --hard origin/master
-git branch
+git pull ->updated values from github repository to local repository
+git clone ->get github url to the local repository
+git status -> current status of git 
+git init -> initialize a empty git repository 
+git add -> adding our files to git
+git commit -m "msg" -> update changes made to the file
+git reset --hard <commit hash> - reset particular file using ocmmit hash in github
+git reset --hard origin/master - reset file using branch
+git branch - to know which branch is currently using
