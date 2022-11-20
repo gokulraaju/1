@@ -1,4 +1,4 @@
-git push
+git push -> local repository to github repository
 git pull
 git clone
 git status
