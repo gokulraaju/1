@@ -1,6 +1,5 @@
-git push -> local repository to github repository
-
-git pull -> updated file to local repository
+git push
+git pull 
 git clone
 git status
 git init 
