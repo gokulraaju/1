@@ -1,5 +1,5 @@
 git push -> local repository to github repository
-git pull
+git pull 
 git clone
 git status
 git init 
